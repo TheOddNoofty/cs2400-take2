@@ -2,7 +2,7 @@
 public class MewProject{
     public static void main(String[] args) {
         int a = 10;
-        int b = 3; 
+        int b = 2; //comment for demo
         int c = a / b; 
         System.out.println("Result: " + c);
     }
